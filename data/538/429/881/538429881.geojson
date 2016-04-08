@@ -1,0 +1,52 @@
+{
+  "id": 538429881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"SK",
+    "src:geom":"geoplanet",
+    "wof:belongsto":[
+        85688349,
+        102191581,
+        85633769,
+        101780369,
+        102080577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":"12849092"
+    },
+    "wof:country":"SK",
+    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080577,
+            "locality_id":101780369,
+            "postalcode_id":538429881,
+            "region_id":85688349
+        }
+    ],
+    "wof:id":538429881,
+    "wof:lastmodified":1460076003,
+    "wof:name":"032 51",
+    "wof:parent_id":"101780369",
+    "wof:placetype":"postalcode",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+}
